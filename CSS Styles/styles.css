@@ -1,0 +1,152 @@
+a{
+  color: #11999E;
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+body{
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+h1{
+font-family: 'Sacramento', cursive;
+color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+
+}
+h2{
+    color: #66BFBF;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #11999E;
+}
+
+p{
+  line-height: 2;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  bottom:  300px;
+  left: 250px;
+
+}
+
+.bottom-part{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+
+
+
+.btn {
+	font-family: Arial;
+	color: #FFFFFF;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px #3866a3 solid;
+	background: linear-gradient(180deg, #63B8EE 5%, #468CCF 100%);
+	text-shadow: 1px 1px 1px #528ecc;
+	box-shadow: inset 1px 1px 2px 0 #bbdaf7;
+	cursor: pointer;
+	display: inline-flex;
+	align-items: center;
+}
+.btn:hover {
+	background: linear-gradient(180deg, #468CCF 5%, #63B8EE 100%);
+}
+.btn-icon {
+	padding: 10px 10px;
+	border-right: 1px solid rgba(255, 255, 255, 0.16);
+	box-shadow: rgba(0, 0, 0, 0.14) -1px 0 0 inset;
+}
+.btn-text {
+	padding: 10px 18px;
+}
+
+
+
+.contact-me{
+  width: 40%;
+  margin:40px auto 60px;
+}
+
+
+
+.code-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.cycling-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.middle-part{
+ margin: 100px 0;
+
+}
+
+.profile-pic{
+  border-radius: 100px;
+}
+
+
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+
+}
+
+.top-part{
+  background-color: #B8FFF9;
+  position: relative;
+
+  padding-top: 80px;
+}
+
+.top-cloud{
+position: absolute;
+top: 40px;
+right: 300px;
+
+}
